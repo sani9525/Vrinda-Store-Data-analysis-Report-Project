@@ -1,5 +1,6 @@
 # Vrinda-Store-Data-analysis-Report-Project.
 
+
 # Objective.
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
 
@@ -13,18 +14,18 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 • Highest selling category?, etc. <br>
 
 # What Tech I did in this Projects.
-• Data Cleaning
-• Data Processing   
-• Data Analysis
-• Interactive Dashboard
+• Data Cleaning <br>
+• Data Processing   <br>
+• Data Analysis      <br>
+• Interactive Dashboard <br>
 
 # Sample Insights
-• Women are more likely to buy compared to men (~65%)
-• Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%
-• Adult age group (30-49 yrs) is max contributing (~50%)
-• Amazon, Flipkart and Myntra channels are max contributing (~80%)
+• Women are more likely to buy compared to men (~65%)     <br>
+• Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)  <br>
+• Adult age group (30-49 yrs) is max contributing (~50%)          <br>
+• Amazon, Flipkart and Myntra channels are max contributing (~80%)      <br>
 
 # Final Conclusion to improve Vrinda store sales:
-Target women customers of age group (30-49 yrs) living in
-Maharashtra, Karnataka and Uttar Pradesh by showing
-ads/offers/coupons available on Amazon, Flipkart and Myntra.
+Target women customers of age group (30-49 yrs) living in      
+Maharashtra, Karnataka and Uttar Pradesh by showing        
+ads/offers/coupons available on Amazon, Flipkart and Myntra.      <br>
